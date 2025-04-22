@@ -1,0 +1,32 @@
+
+✅ Notificación recibida y verificada correctamente
+Datos del pago:
+{
+    "amount": 120.75,
+    "status": "completed",
+    "creditor_account": "ES1234567890",
+    "debtor_account": "ES0987654321",
+    "notification_id": "6807328640e8c"
+}
+
+✅ Notificación recibida y verificada correctamente
+Datos del pago:
+{
+    "amount": 120.75,
+    "status": "completed",
+    "creditor_account": "ES1234567890",
+    "debtor_account": "ES0987654321",
+    "notification_id": "68073308f28e5"
+}
+
+✅ Notificación recibida y verificada correctamente
+🔐 Firma JWT válida y segundo factor (reverificación) pasada
+📦 Datos del pago:
+{
+    "amount": 120.75,
+    "status": "completed",
+    "creditor_account": "ES1234567890",
+    "debtor_account": "ES0987654321",
+    "notification_id": "6807379353d7d"
+}
+
