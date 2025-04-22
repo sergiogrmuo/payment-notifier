@@ -1,4 +1,4 @@
-# Payment Notifier - Arquitectura Hexagonal
+# Payment Notifier - Arquitectura Hexatonial
 
 Proyecto de demostración en PHP 8.2 con arquitectura hexatonial, sin frameworks, utilizando puertos y adaptadores. Envía notificaciones de pagos firmadas con JWT a través de HTTP.
 
